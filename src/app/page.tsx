@@ -70,7 +70,7 @@ export default function LandingPage() {
           handle: "@mthorne",
           testimonial: "The most secure and intuitive crypto platform I've used. Absolutely essential for serious traders.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg?_wi=1",
           imageAlt: "crypto investment digital blue tech",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@evance",
           testimonial: "NovaCrypto redefined my investment strategy. Their speed and institutional tools are unmatched.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg?_wi=1",
           imageAlt: "crypto investment digital blue tech",
         },
         {
@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@dchen",
           testimonial: "Professional, reliable, and high-performance trading. Highly recommended.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg?_wi=1",
           imageAlt: "crypto investment digital blue tech",
         },
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@sjenkins",
           testimonial: "Finally, a platform that understands institutional needs. Security is world-class.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg?_wi=1",
           imageAlt: "crypto investment digital blue tech",
         },
         {
@@ -102,11 +102,11 @@ export default function LandingPage() {
           handle: "@rwu",
           testimonial: "The analytics tools here have helped me optimize my portfolio better than any competitor.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg?_wi=1",
           imageAlt: "crypto investment digital blue tech",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg?_wi=2"
       imageAlt="Futuristic digital crypto interface"
       avatars={[
         {
@@ -217,21 +217,21 @@ export default function LandingPage() {
           value: "$12B+",
           title: "Total Volume",
           description: "Assets traded securely on our network.",
-          imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg?_wi=2",
         },
         {
           id: "m2",
           value: "150k+",
           title: "Active Traders",
           description: "Global community of institutional investors.",
-          imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg?_wi=2",
         },
         {
           id: "m3",
           value: "99.9%",
           title: "Uptime",
           description: "Resilient architecture ensures 24/7 access.",
-          imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg?_wi=2",
         },
       ]}
       title="Proven Market Results"
@@ -251,7 +251,7 @@ export default function LandingPage() {
           name: "Market Analysis Terminal",
           price: "Included",
           variant: "Terminal",
-          imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg?_wi=2",
         },
         {
           id: "p2",
@@ -329,7 +329,7 @@ export default function LandingPage() {
           button: {
             text: "Get Pro",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg?_wi=3",
           imageAlt: "Close up hand holding futuristic screen",
         },
         {
@@ -345,7 +345,7 @@ export default function LandingPage() {
           button: {
             text: "Contact Sales",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg?_wi=3",
           imageAlt: "Close up hand holding futuristic screen",
         },
       ]}
