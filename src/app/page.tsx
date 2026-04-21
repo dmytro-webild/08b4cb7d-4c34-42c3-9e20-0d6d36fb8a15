@@ -48,13 +48,13 @@ export default function LandingPage() {
       title="The Future of Digital Asset Wealth"
       description="Experience professional-grade crypto trading with unparalleled security and institutional precision."
       testimonials={[
-        { name: "Marcus Thorne", handle: "@mthorne", testimonial: "The most secure and intuitive crypto platform I've used. Absolutely essential for serious traders.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg", imageAlt: "crypto investment digital blue tech" },
-        { name: "Elena Vance", handle: "@evance", testimonial: "NovaCrypto redefined my investment strategy. Their speed and institutional tools are unmatched.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg", imageAlt: "crypto investment digital blue tech" },
-        { name: "David Chen", handle: "@dchen", testimonial: "Professional, reliable, and high-performance trading. Highly recommended.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg", imageAlt: "crypto investment digital blue tech" },
-        { name: "Sarah Jenkins", handle: "@sjenkins", testimonial: "Finally, a platform that understands institutional needs. Security is world-class.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg", imageAlt: "crypto investment digital blue tech" },
-        { name: "Robert Wu", handle: "@rwu", testimonial: "The analytics tools here have helped me optimize my portfolio better than any competitor.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg", imageAlt: "crypto investment digital blue tech" }
+        { name: "Marcus Thorne", handle: "@mthorne", testimonial: "The most secure and intuitive crypto platform I've used. Absolutely essential for serious traders.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg?_wi=1", imageAlt: "crypto investment digital blue tech" },
+        { name: "Elena Vance", handle: "@evance", testimonial: "NovaCrypto redefined my investment strategy. Their speed and institutional tools are unmatched.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg?_wi=1", imageAlt: "crypto investment digital blue tech" },
+        { name: "David Chen", handle: "@dchen", testimonial: "Professional, reliable, and high-performance trading. Highly recommended.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg?_wi=1", imageAlt: "crypto investment digital blue tech" },
+        { name: "Sarah Jenkins", handle: "@sjenkins", testimonial: "Finally, a platform that understands institutional needs. Security is world-class.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg?_wi=1", imageAlt: "crypto investment digital blue tech" },
+        { name: "Robert Wu", handle: "@rwu", testimonial: "The analytics tools here have helped me optimize my portfolio better than any competitor.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg?_wi=1", imageAlt: "crypto investment digital blue tech" }
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg?_wi=2"
       imageAlt="Futuristic digital crypto interface"
       avatars={[
         { src: "http://img.b2bpic.net/free-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelsexy-modern-man-dressed-elegant-suit-spectacles-fashion-male-posing-studio-near-blue-wall-looking-camera-glasses_158538-21056.jpg", alt: "Portrait of handsome confident stylish hipster" },
@@ -98,9 +98,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       metrics={[
-        { id: "m1", value: "$12B+", title: "Total Volume", description: "Assets traded securely on our network.", imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg" },
-        { id: "m2", value: "150k+", title: "Active Traders", description: "Global community of institutional investors.", imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg" },
-        { id: "m3", value: "99.9%", title: "Uptime", description: "Resilient architecture ensures 24/7 access.", imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg" }
+        { id: "m1", value: "$12B+", title: "Total Volume", description: "Assets traded securely on our network.", imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg?_wi=2" },
+        { id: "m2", value: "150k+", title: "Active Traders", description: "Global community of institutional investors.", imageSrc: "http://img.b2bpic.net/free-vector/glowing-digital-rupee-symbol-background-with-particle-effect_1017-41271.jpg?_wi=2" },
+        { id: "m3", value: "99.9%", title: "Uptime", description: "Resilient architecture ensures 24/7 access.", imageSrc: "http://img.b2bpic.net/free-vector/global-bitcoin-network-presence-concept-background-with-earth_1017-30488.jpg?_wi=2" }
       ]}
       title="Proven Market Results"
       description="Our numbers reflect our commitment to excellence."
@@ -114,7 +114,7 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       products={[
-        { id: "p1", name: "Market Analysis Terminal", price: "Included", variant: "Terminal", imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg" },
+        { id: "p1", name: "Market Analysis Terminal", price: "Included", variant: "Terminal", imageSrc: "http://img.b2bpic.net/free-photo/cybersecurity-threats-map-with-real-time-pulse-visualization_23-2152001128.jpg?_wi=2" },
         { id: "p2", name: "Mobile Trading Pro", price: "Included", variant: "Mobile", imageSrc: "http://img.b2bpic.net/free-photo/business-person-looking-finance-graphs_23-2150461319.jpg" },
         { id: "p3", name: "Nova Ledger Card", price: "$99", variant: "Card", imageSrc: "http://img.b2bpic.net/free-photo/ramadan-credit-card-left-side_187299-37896.jpg" },
         { id: "p4", name: "Margin Trading Portal", price: "Subscription", variant: "Portal", imageSrc: "http://img.b2bpic.net/free-photo/asian-woman-freelancer-working-from-home-business-app-home-business-laptop-computer-businesswoman-office-working-sitting-woman-work-communication-internet-people-online-happy-technology_482257-47239.jpg" },
@@ -133,8 +133,8 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         { id: "basic", title: "Basic Access", price: "$0", period: "forever", features: ["Limited trading", "Security tools", "Community support"], button: { text: "Start Free" }, imageSrc: "http://img.b2bpic.net/free-photo/close-up-hand-holding-futuristic-screen_23-2149126945.jpg", imageAlt: "Close up hand holding futuristic screen" },
-        { id: "pro", title: "Pro Trader", price: "$49", period: "/mo", features: ["Unlimited trading", "Deep analytics", "24/7 Priority support"], button: { text: "Get Pro" }, imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg", imageAlt: "Close up hand holding futuristic screen" },
-        { id: "institutional", title: "Institutional", price: "Custom", period: "/mo", features: ["OTC Trading Desk", "Dedicated Account Manager", "Advanced Vault"], button: { text: "Contact Sales" }, imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg", imageAlt: "Close up hand holding futuristic screen" }
+        { id: "pro", title: "Pro Trader", price: "$49", period: "/mo", features: ["Unlimited trading", "Deep analytics", "24/7 Priority support"], button: { text: "Get Pro" }, imageSrc: "http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg?_wi=3", imageAlt: "Close up hand holding futuristic screen" },
+        { id: "institutional", title: "Institutional", price: "Custom", period: "/mo", features: ["OTC Trading Desk", "Dedicated Account Manager", "Advanced Vault"], button: { text: "Contact Sales" }, imageSrc: "http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg?_wi=3", imageAlt: "Close up hand holding futuristic screen" }
       ]}
       title="Transparent Pricing"
       description="Simple, tiered plans for everyone, from beginners to institutions."
