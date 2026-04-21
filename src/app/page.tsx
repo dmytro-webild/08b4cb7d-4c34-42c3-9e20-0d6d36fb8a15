@@ -7,6 +7,7 @@ import FaqSplitText from '@/components/sections/faq/FaqSplitText';
 import FeatureCardTwelve from '@/components/sections/feature/FeatureCardTwelve';
 import FooterSimple from '@/components/sections/footer/FooterSimple';
 import HeroBillboardTestimonial from '@/components/sections/hero/HeroBillboardTestimonial';
+import HeroLogo from '@/components/sections/hero/HeroLogo';
 import MetricCardEleven from '@/components/sections/metrics/MetricCardEleven';
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import PricingCardNine from '@/components/sections/pricing/PricingCardNine';
@@ -75,6 +76,16 @@ export default function LandingPage() {
         { text: "Learn More", href: "#features" }
       ]}
     />
+  </div>
+
+  <div id="logo-billboard" data-section="logo-billboard">
+      <HeroLogo
+        logoText="Trusted by Global Institutions"
+        description="Building the infrastructure for the next generation of digital assets."
+        buttons={[{ text: "Explore Assets", href: "#features" }]}
+        imageSrc="http://img.b2bpic.net/free-photo/blockchain-technology-cartoon-illustration_23-2151572142.jpg"
+        imageAlt="Trusted partners logos"
+      />
   </div>
 
   <div id="features" data-section="features">
